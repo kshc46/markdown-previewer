@@ -1,0 +1,28 @@
+body {
+  background-color: #373737;
+}
+
+#topJumbo {
+  background-color: #2362E1;
+  color: white;
+  height: 160px;
+}
+
+#mainJumboText {
+  font-size: 40px;
+}
+
+#jumboName {
+  font-size: 14px;
+}
+
+#paratext {
+  color: white;
+}
+
+textArea {
+  color: black;
+  resize: vertical;
+  width: 100%;
+  height: 300px;
+}
